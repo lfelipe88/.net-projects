@@ -7,36 +7,11 @@ Entre los proyectos que planeo desarrollar se incluyen una API RESTful, una apli
 Comandos Básicos de .NET
 A continuación, se presentan algunos comandos básicos que serán útiles al trabajar con proyectos de .NET:
 
-Crear un nuevo proyecto:
-
-bash
-Run
-Copy code
-dotnet new console -n NombreDelProyecto
-Ejecutar un proyecto:
-
-bash
-Run
-Copy code
-dotnet run
-Agregar un paquete NuGet:
-
-bash
-Run
-Copy code
-dotnet add package NombreDelPaquete
-Construir el proyecto:
-
-bash
-Run
-Copy code
-dotnet build
-Ejecutar pruebas:
-
-bash
-Run
-Copy code
-dotnet test
+dotnet new console -n NombreDelProyecto: "Crea un nuevo proyecto de consola con el nombre especificado."
+dotnet run: "Ejecuta el proyecto actual."
+dotnet add package NombreDelPaquete: "Agrega un paquete NuGet al proyecto especificado."
+dotnet build: "Compila el proyecto actual."
+dotnet test: "Ejecuta las pruebas del proyecto."
 Recomendaciones
 Para aquellos que deseen profundizar en el desarrollo con .NET, recomiendo mantenerse al día con las últimas versiones y características del framework. La documentación oficial de .NET es un recurso invaluable que ofrece guías, tutoriales y ejemplos. Además, utilizar herramientas de desarrollo como Visual Studio y Visual Studio Code puede mejorar significativamente la experiencia de desarrollo, gracias a sus potentes características de depuración y gestión de proyectos.
 
